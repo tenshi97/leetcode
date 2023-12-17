@@ -48,4 +48,5 @@ int main(void)
 {
     Solution a = Solution();
     cout<<a.lengthOfLongestSubstring("au")<<endl;
+    return 0;
 }
